@@ -11,35 +11,40 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Neurosciences, University of Paris-Saclay, 2028 (expected)
+* M.S. in Engineering and Human Movement Sciences, University of Paris-Saclay, 2024
+* M.S. in Physical Education and Sport Sciences, Ecole normale superieure of Rennes, 2024
+* B.S. in Sport training (Sport Sciences), University of Rennes, 2021
+* B.S. in Education and motricity (Sport Sciences), University of Rennes, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* March-July 2024: Research internship
+  * University of Paris-Saclay
+  * Duties includes:...
+  * Supervisor: Bastien Berret and Hafs
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* January-July 2023: Research internship
+  * University of Montreal
+  * Duties included: ...
+  * Supervisor: Eve Charbonneau and Mickael Begon
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September - December 2022: Research internship
+  * University of Paris-Saclay
+  * Duties included: ...
+  * Supervisor: Nicolas Vignais
+
+* June - August 2022: Research internship
+  * University of Zurich 
+  * Duties included: ...
+  * Supervisor: Gabriella Fischer and Pascal Schutz
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Microsoft Office, Latex
+* Python, R, Matlab
+* CAO
+* Git
 
 Publications
 ======
@@ -47,18 +52,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
