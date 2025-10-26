@@ -23,10 +23,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo.jpeg"
+  avatar           : "photo.png"
   name             : "Anais Farr"
   pronouns         : # example: "she/her"  
-  bio              : "The personal website of a neuroscience PhD student with a dream of becoming a researcher."
+  bio              : "The personal website of a neuroscience PhD student with a dream of becoming a researcher"
   location         : "Orsay (France)"
   employer         : "University Paris-Saclay"
   uri              : # URL
@@ -80,8 +80,8 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
+  #books:
+  #  title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
