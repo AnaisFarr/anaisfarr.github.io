@@ -4,7 +4,7 @@ collection: teaching
 type: "Science communication"
 permalink: /teaching/mediation
 venue: "University Paris Saclay"
-date: 2024
+date: 2024-01-01
 location: "Orsay, France"
 ---
 
